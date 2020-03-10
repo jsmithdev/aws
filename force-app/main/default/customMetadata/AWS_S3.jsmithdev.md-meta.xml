@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>jsmithdev</label>
+    <protected>false</protected>
+    <values>
+        <field>AccessKeyId__c</field>
+        <value xsi:type="xsd:string">AKIA4JU7TCJ2ZLNPEREY</value>
+    </values>
+    <values>
+        <field>Bucket__c</field>
+        <value xsi:type="xsd:string">jsmithdev</value>
+    </values>
+    <values>
+        <field>IdentityPoolId__c</field>
+        <value xsi:type="xsd:string">us-east-2:b4c555ae-1a6f-4111-be16-225f31ba9c11</value>
+    </values>
+    <values>
+        <field>Region__c</field>
+        <value xsi:type="xsd:string">us-east-2</value>
+    </values>
+    <values>
+        <field>SecretAccessKey__c</field>
+        <value xsi:type="xsd:string">6ZahRO7kUazl9o2caGZmfyGTVeAl1S1M/m2tzPOk</value>
+    </values>
+</CustomMetadata>
